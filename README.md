@@ -4,10 +4,8 @@ A responsive one-page agency website built for the Digital Heroes Training Task.
 
 ## 🔗 Live Website
 
-(https://north-peak-digital-studio.netlify.app/)
+https://north-peak-digital-studio.netlify.app/
 
-Example:
-https://your-netlify-link.netlify.app
 
 
 ## 📌 Project Overview
@@ -82,7 +80,7 @@ The website is optimized for:
 ## 🔗 Project Links
 
 ### Live Website
-(https://north-peak-digital-studio.netlify.app/)
+https://north-peak-digital-studio.netlify.app/
 
 ### GitHub Repository
 https://github.com/RithikaSunkari/NorthPeak-Digital-Website
