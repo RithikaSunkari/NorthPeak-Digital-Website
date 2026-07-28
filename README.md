@@ -79,3 +79,13 @@ The website is optimized for:
 
 
 ## 📂 Project Structure
+## 🔗 Project Links
+
+### Live Website
+Your-Netlify-URL-here
+
+### GitHub Repository
+https://github.com/RithikaSunkari/NorthPeak-Digital-Website
+
+### Loom Walkthrough
+https://www.loom.com/share/84486446a218489cb68124261b9c8c67
